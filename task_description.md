@@ -49,7 +49,7 @@ The user should be able to see list of the tickets for the event with the ticket
 
 We need to return tickets for event via API.
 
-## 4. Additional condition to reserved tickets
+# (optional) 4. Additional condition to reserved tickets
 The organization of the event can add additional requirements for reserving / purchasing tickets.
 
 The validation options are optional and should be considered at the type of tickets level:
